@@ -1,0 +1,16 @@
+{
+  "name": "Smart Money Flow",
+  "short_name": "SmartMoneyFlow",
+  "description": "Real strategies to earn online — tested, honest, actionable",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#2563EB",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
